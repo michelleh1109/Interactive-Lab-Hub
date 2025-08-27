@@ -63,9 +63,11 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 To stage an interaction with your interactive device, think about:
 
 _Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
+
 This interaction occurs in the kitchen, and specifically in the fridge. 
 
 _Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
+
 Household resident(s), this can range from one individual or multiple individuals in a household of various age ranges. 
 
 _Activity:_ What is happening between the actors?
