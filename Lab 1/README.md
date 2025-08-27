@@ -2,7 +2,7 @@
 
 # Staging Interaction
 
-\*\***NAME OF COLLABORATOR HERE**\*\*
+\*\***Stella Park mp2288**\*\*
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
@@ -63,12 +63,16 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 To stage an interaction with your interactive device, think about:
 
 _Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
+This interaction occurs in the kitchen, and specifically in the fridge. 
 
 _Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
+Household resident(s), this can range from one individual or multiple individuals in a household of various age ranges. 
 
 _Activity:_ What is happening between the actors?
+Scanning the barcode of food in pantry/fridge to see if the food is good to eat or to throw out. The interactive device will be a fun experience and fashioned into a barcode scanning device, as if the user were a cashier for a store. This can be particularly fun for kids who want to scan items in the fridge.
 
 _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
+Determine whether the food porduct has reached its expiration date
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
