@@ -71,9 +71,11 @@ _Players:_ Who is involved in the interaction? Who else is there? If you reflect
 Household resident(s), this can range from one individual or multiple individuals in a household of various age ranges. 
 
 _Activity:_ What is happening between the actors?
+
 Scanning the barcode of food in pantry/fridge to see if the food is good to eat or to throw out. The interactive device will be a fun experience and fashioned into a barcode scanning device, as if the user were a cashier for a store. This can be particularly fun for kids who want to scan items in the fridge.
 
 _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
+
 Determine whether the food porduct has reached its expiration date
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
@@ -85,6 +87,10 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 \*\***Include pictures of your storyboards here**\*\*
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
+
+![IMG_0763](https://github.com/user-attachments/assets/7dce33bf-13f3-4c9f-9594-54792391bbbc)
+
+![IMG_0764](https://github.com/user-attachments/assets/51697202-4970-4a4b-a1fa-89decd6bd8a1)
 
 \*\***Summarize feedback you got here.**\*\*
 
